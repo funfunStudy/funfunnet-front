@@ -1,6 +1,13 @@
 # funfunnet-front
 
 
-Test
+## Install
+https://guide.elm-lang.org/install.html
 
-Plz
+## Run
+```$xslt
+elm-reactor
+```
+
+## Contribution Guide
+[How to Contribute](https://github.com/funfunStudy/funfunnet/wiki/How-to-Contribute)
